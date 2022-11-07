@@ -1,4 +1,8 @@
-# Seja bem vindo a ConteudosTech🕹!
+<p align="center">
+<h1 align="center">ConteudosTech🕹</h1>
+<p align="center">
+
+### Seja bem vindo a ConteudosTech!
 
 O objetivo desse repositório é compartilhar todo o conhecimento que um profissional que deseja trabalhar na area da tecnologia deve possuir, além de 
 conhecimentos complementares que podem lhe auxiliar no dia a dia ou que sejam especificos para outras vagas.
