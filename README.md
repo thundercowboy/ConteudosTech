@@ -39,7 +39,7 @@ Livro | Autor(es) | Linguagem
     
 ## IDES
 
-"IDE é um acrônimo para Integrated Development Environment, em português, Ambiente de Desenvolvimento Integrado, em português. Ele é um programa que reúne ferramentas necessárias para a construção de outros softwares."
+"IDE é um acrônimo para 'Integrated Development Environment', que significa Ambiente de Desenvolvimento Integrado em português. Ele é um programa que reúne ferramentas necessárias para a construção de outros softwares."
 
 <table>
   <tr>
