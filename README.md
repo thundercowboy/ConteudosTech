@@ -8,7 +8,7 @@ O objetivo desse repositório é compartilhar todo o conhecimento que um profiss
 
 1. [ConteudosTech](https://github.com/thundercowboy/ConteudosTech#ConteudosTech)
     - [Cursos](https://github.com/thundercowboy/ConteudosTech#Cursos)
-    - [Livros/Ebooks](https://github.com/thundercowboy/ConteudosTech#Livros/Ebooks)
+    - [Livros](https://github.com/thundercowboy/ConteudosTech#Livros)
     - [IDES](https://github.com/thundercowboy/ConteudosTech#IDES)
     - [Linguagens](https://github.com/thundercowboy/ConteudosTech#linguagens)
 1. [Contribuindo](https://github.com/thundercowboy/ConteudosTech#Contribuindo)
@@ -26,7 +26,7 @@ Curso | Duração | Conteúdos | Instrutor |
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 30 horas | - | Fabio Kon |
 
 
-## Livros/Ebooks
+## Livros
     
 1. Introdução/Lógica de Programação
     
