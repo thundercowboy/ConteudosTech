@@ -14,17 +14,32 @@ O objetivo desse repositório é compartilhar todo o conhecimento que um profiss
 1. [Contribuindo](https://github.com/thundercowboy/ConteudosTech#Contribuindo)
 
 ## Cursos
-    
-    
+
 1.  Introdução/Lógica de Programação
     
 Curso | Duração | Conteúdos | Instrutor |
 :---- | :----: | :----: | :----:
 [Algoritmos](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) | 40 horas | - | Gustavo Guanabara |
-[Introdução à Ciência da Computação com Python](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 40 horas | - | Fabio Kon |
-[Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 30 horas | - | Fabio Kon |
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 30 horas | - | Fabio Kon |
 
+2.  Linguagens
+
+    * Python
+
+Curso | Duração | Conteúdos | Instrutor |
+:---- | :----: | :----: | :----:
+[Introdução à Ciência da Computação com Python](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 40 horas | - | Fabio Kon |
+[Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 30 horas | - | Fabio Kon |
+[Python 3 - Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/) | 40 horas | - | Gustavo Guanabara |
+[Python 3 - Mundo 2](https://www.cursoemvideo.com/curso/python-3-mundo-2/) | 40 horas | - | Gustavo Guanabara |
+[Python 3 - Mundo 3](https://www.cursoemvideo.com/curso/python-3-mundo-3/) | 40 horas | - | Gustavo Guanabara |
+[Curso de Python 3 do Básico Ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/) | 140 horas | - | Luiz Otávio Miranda |
+
+3.  Banco de Dados
+
+Curso | Duração | Conteúdos | Instrutor |
+:---- | :----: | :----: | :----:
+[MySQL](https://www.cursoemvideo.com/curso/mysql/) | 40 Horas | - | Gustavo Guanabara |
 
 ## Livros
     
@@ -50,6 +65,32 @@ Livro | Autor(es) | Linguagem
 </table>
 
 ## Linguagens
+
+* Assembly
+
+* C
+
+* C#
+
+* C++
+
+* Java
+
+* JavaScript (JS)
+
+* Lua
+
+* Perl
+
+* PHP
+
+* Python
+
+* R
+
+* Ruby
+
+* Swift
 
 ## Contribuindo
     
