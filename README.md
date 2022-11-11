@@ -68,7 +68,15 @@ Livro | Autor(es) | Linguagem
 
 * Assembly
 
-* C
+<tr>
+    <h1 align="center"><img src="langs/C.png" width="100px;"/></h1>
+</tr>
+
+C é uma das linguagens de programação mais populares e existem poucas arquiteturas para as quais não existem compiladores para C. C tem influenciado muitas outras linguagens de programação (por exemplo, a linguagem Java), mais notavelmente C++, que originalmente começou como uma extensão para C.
+
+Ano | Tipagem | Bom para: |
+:---- | :----: | :----:
+1972 | Estática / Fraca | Embarcados; Jogos |
 
 * C#
 
@@ -78,7 +86,15 @@ Livro | Autor(es) | Linguagem
 
 * JavaScript (JS)
 
-* Lua
+<tr>
+    <h1 align="center"><img src="langs/lua.png" width="100px;"/></h1>
+</tr>
+
+Lua foi criada por um time de desenvolvedores do Tecgraf da PUC-Rio, a princípio, para ser usada em um projeto da Petrobras. Devido à sua eficiência, clareza e facilidade de aprendizado, passou a ser usada em diversos ramos da programação, como no desenvolvimento de jogos (a Blizzard Entertainment, por exemplo, usou a linguagem no jogo World of Warcraft), controle de robôs, processamento de texto, etc. Também é frequentemente usada como uma linguagem de propósito geral.
+
+Ano | Tipagem | Bom para: |
+:---- | :----: | :----:
+1993 | Dinâmica / Forte | Estender aplicações; Jogos |
 
 * Perl
 
